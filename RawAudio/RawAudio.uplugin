@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RawAudio",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "unktomi",
+	"CreatedByURL": "github.com/unktomi",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Modules": [
+		{
+			"Name": "RawAudio",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RawAudioEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}
