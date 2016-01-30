@@ -6,3 +6,5 @@ Provides a class <code>URawAudioSoundWave</code> which extends <code>USoundWave<
     void EnqueuePCMData(const uint8 *Data, int32 Size);
 
 This function must be called on the main thread. You must also specify the <code>SampleRate</code> and <code>NumChannels</code> fields of <code>USoundWave</code> and format the data accordingly.
+
+This plugin also contains an Editor plugin which adds the asset to the Sounds menu.
